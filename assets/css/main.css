@@ -2636,7 +2636,7 @@ input[type="button"].primary,
 button.primary,
 .button.primary {
   background-color: #18497a;
-  /*background-image: url(../images/overlay1.png), linear-gradient(45deg, #2c3e50, #3498db 70%, #928DAB 95%);*/
+  /*background-image: url(../images/overlay1.png), linear-gradient(45deg, #aa4b6b, #6b6b83 70%, #3b8d99 95%);*/
   box-shadow: none !important;
   color: #ffffff !important;
 }
@@ -2660,7 +2660,7 @@ input[type="button"].primary:hover,
 button.primary:hover,
 .button.primary:hover {
   background-color: #2467aa !important;
-  /*background-image: url(../images/overlay1.png), linear-gradient(45deg, #2c3e50, #3498db 70%, #928DAB 95%);*/
+  /*background-image: url(../images/overlay1.png), linear-gradient(45deg, #aa4b6b, #6b6b83 70%, #3b8d99 95%);*/
 }
 
 input[type="submit"].primary:active,
@@ -2989,7 +2989,7 @@ button:disabled,
 }
 
 .wrapper.style1 {
-  background-image: linear-gradient(45deg, #2c3e50, #3498db 70%, #928dab 95%);
+  background-image: linear-gradient(45deg, #aa4b6b, #6b6b83 70%, #3b8d99 95%);
   background-color: #21b2a6;
   color: #c8ece9;
 }
@@ -3181,7 +3181,7 @@ button:disabled,
 }
 
 .wrapper2.style1 {
-  background-image: linear-gradient(45deg, #2c3e50, #3498db 70%, #928dab 95%);
+  background-image: linear-gradient(45deg, #aa4b6b, #6b6b83 70%, #3b8d99 95%);
   background-color: #21b2a6;
   color: #c8ece9;
 }
@@ -3373,7 +3373,7 @@ button:disabled,
 }
 
 .wrapper3.style1 {
-  background-image: linear-gradient(45deg, #2c3e50, #3498db 70%, #928dab 95%);
+  background-image: linear-gradient(45deg, #aa4b6b, #6b6b83 70%, #3b8d99 95%);
   background-color: #21b2a6;
   color: #c8ece9;
 }
@@ -3545,7 +3545,7 @@ button:disabled,
 }
 
 .wrapper.style3 {
-  background-image: linear-gradient(45deg, #2c3e50, #3498db 70%, #928dab 95%);
+  background-image: linear-gradient(45deg, #aa4b6b, #6b6b83 70%, #3b8d99 95%);
   background-color: #505393;
   color: #ffffff;
 }
@@ -3721,9 +3721,9 @@ button:disabled,
   color: #ffffff;
   background-image: url(../images/overlay1.png), linear-gradient(
       45deg,
-      rgba(44, 62, 80, 0.95),
-      rgba(52, 152, 219, 0.95) 70%,
-      rgba(146, 141, 171, 0.95) 95%
+      rgba(170, 75, 170, 0.95),
+      rgba(107, 107, 131, 0.95) 70%,
+      rgba(59, 141, 153, 0.95) 95%
     );
 }
 
@@ -3975,9 +3975,9 @@ button:disabled,
   background-image: url(../images/overlay1.png),
   linear-gradient(
       45deg,
-      rgba(44, 62, 80, 0.95),
-      rgba(52, 152, 219, 0.95) 70%,
-      rgba(146, 141, 171, 0.95) 95%
+      rgba(170, 75, 170, 0.95),
+      rgba(107, 107, 131, 0.95) 70%,
+      rgba(59, 141, 153, 0.95) 95%
     );
   box-shadow: none;
   height: 100%;
@@ -4330,7 +4330,7 @@ body.is-menu-visible #menu {
   transition-delay: 1.25s;
   content: "";
   background: url("../images/overlay1.png"),
-  linear-gradient(45deg, #2c3e50, #3498db 70%, #928dab 95%);
+  linear-gradient(45deg, #aa4b6b, #6b6b83 70%, #3b8d99 95%);
   display: block;
   width: 100%;
   height: 100%;
