@@ -2263,6 +2263,20 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
 /* List */
 
 ol {
@@ -3587,6 +3601,14 @@ button:disabled,
   border-color: rgba(255, 255, 255, 0.125);
 }
 
+.wrapper.style6 header.major h2,
+.wrapper.style6 header.major h3,
+.wrapper.style6 header.major h4,
+.wrapper.style6 header.major h5,
+.wrapper.style6 header.major h6 {
+  border-color: rgba(255, 255, 255, 0.125);
+}
+
 .wrapper.style3 header.major p {
   color: #ffffff;
 }
@@ -3902,6 +3924,12 @@ button:disabled,
   .wrapper {
     padding: 3em 2em 1em 2em;
   }
+}
+
+.wrapper.style6 {
+  background-color: #2c3e50;
+  color: #ffffff;
+ 
 }
 
 /* Page Wrapper + Menu */
